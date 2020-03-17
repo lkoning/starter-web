@@ -1,7 +1,7 @@
 # Starter Web Project
 
 Simple project to learn git.
-Add line for rebase.
+Add line for rebase, more changes from feature branch.
 
 ## Introduction
 

@@ -1,6 +1,7 @@
 # Starter Web Project
 
-Simple project.
+Simple project to learn git.
+Add line for rebase.
 
 ## Introduction
 

@@ -15,3 +15,5 @@ An easy purpose.
 Deployment info.
 
 ## How to contribute
+
+Copyright notice

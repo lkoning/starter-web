@@ -21,4 +21,4 @@ Please fork and create more Pull Requests.
 
 ### Copyright
 
-Copyright notice
+Copyright notice: All rights reserverd.
